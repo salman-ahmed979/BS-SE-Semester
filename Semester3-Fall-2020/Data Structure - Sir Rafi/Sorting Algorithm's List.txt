@@ -1,0 +1,13 @@
+1-Bubble sort
+2-insertion sort
+3-selection sort
+4-merge sort
+5-quick sort
+6-heap sort
+7-radix sort
+8-shell sort
+9-bucket sort
+10-tim sort
+11-comb sort
+12-cocktail sort
+13-Binary Insertion Sort

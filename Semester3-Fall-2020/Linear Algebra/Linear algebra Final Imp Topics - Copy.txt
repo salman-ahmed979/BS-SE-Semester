@@ -1,0 +1,44 @@
+LINEAR ALGEBRA IMPORTANT TOPICS:
+
+NOTE: Try to prepare your course in backward direction, means that start preparing from ch # 05 and 6 first, so that it could cover Ch#07 easily, then 4,2,1. Because in finals last topics covers most part
+of Exam, but in the same manner we can't ignore middle and starting course, from very start ch#01 is very basic for you now, but chaper 2 could be important, i am going
+the important topics below, so that you could get the idea to prepare.
+
+CHAPTER # 07: NOTE: Do Ch # 06 first and then Ch#5 to prepare this chapter, NOTE: SPECTRAL DECOMPOSITION is not included.
+1)  7.1 topic: orthogonal matrices, see example # 01, 02 and qns: 3, 5, 7.
+2)  7.2 topics: Orthogonal Diagonalization, Do Example # 01, and exercise: From 1-14.
+3)  7.3 topics: topics: QUADRETIC FORMS, PRINCIPLE AXIS THEOREM, see Example 01,02 and exercise 1-08.
+
+CHAPTER # 06:
+1) 6.1 Inner Products, do exercise as it is important regarding inner produst of all spaces and all types of inner products we cover like weighted, evaluation, integral, also norms and distances of all type of spaces, practice exrecise
+from 1-20 selective qns.
+2) 6.2 Angle and Orthogonality, practice exercise for angles between two vectors, cosine of angle, and orthogonality of two vectors. Ex: 1-28.
+3) 6.3 (IMPORTANT) Topics: Orthogonal and Orthonormal Sets, Orthogonal and Orthonormal Basis, Coordinates of bases learn formulas, Gram-schmidth process, QR-DECOMPOSITION.
+
+CHAPTER # O5:
+1) 5.1 TOPICS: Eigen Values and Eigen vectors, do all examples properly and do selective qns of exercise not all.
+2) 5.2 Topics: Do not do similar matrices topic, only do diagonalization topic, see example # 01 and cover related qns of this topic in exercise.
+
+CHAPTER # 04: TOPICS:
+
+1) Vector Soaces (4.1)  Learn all axioms properly and do practice to prove 10 axioms for a vector space.
+2) Linear Combinations (4.2) (do all examples and few qns that could be important for exam)
+3) Solutions of Homogenous linear systems (4.2) (do all examples and few qns that could be important for exam)
+4) Linear Independance and basis (4.3) (do all examples and few qns that could be important for exam)
+after that just do solved examples of remaining sections of chapter 4
+
+CHAPTER # 02:
+  ALL METHODS U LEARNT IN THIS CHAPTER ARE IMPORTANT
+1)  COFACTOR EXPANSIONS TO EVALUATE DETERMINANTS
+2)  ROW REDUCTION METHOD TO EVALUATE DETERMINANTS
+3)  ADJOINT METHOD AND INVERSION ALGORITHM METHOD TO FIND INVERSE OF A
+4)  CRAMER'S RULE TO SOLVE A SYSTEM OF LINEAR EQUATIONS 
+5)  SOLVE A LINEAR SYSTEM BY INVERTING A MATRIX  X=A^-1X 
+6)  SOLVE LINEAR SYSTEMS BY COMBINING ALL SYSTEMS TOGETHER 
+
+
+IMPORTANT INSTRUCTIONS TO BE NOTED:
+'' SECTION 1.9 & SPECTRAL DECOMPOSITION TOPIC OF SECTION 7.3 IS NOT INCLUDED IN SYLLABUS ALSO DROP 1.8 MATRIX TRANSFORMATION.''
+
+'' DO NOT USE CALCULATORS TO SOLVE THE SYSTEM SIMULTANEOUSLY.''
+'' DO NOT USE CALCLATORS TO SOLVE DETERMINANTS OR INVERSE OF MATRIX A.''
